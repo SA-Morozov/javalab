@@ -1,0 +1,38 @@
+<library>
+    <Movie>
+        <Title>Крестный отец</Title>
+        <Director>Фрэнсис Форд Коппола</Director>
+        <Year>1972</Year>
+        <Genre>Криминал, Драма</Genre>
+        <Rating>9.2</Rating>
+        <Actors>
+            <Actor>Марлон Брандо</Actor>
+            <Actor>Аль Пачино</Actor>
+            <Actor>Джеймс Каан</Actor>
+        </Actors>
+    </Movie>
+    <Movie>
+        <Title>Таксист</Title>
+        <Director>Мартин Скорсезе</Director>
+        <Year>1976</Year>
+        <Genre>Триллер, Драма</Genre>
+        <Rating>8.2</Rating>
+        <Actors>
+            <Actor>Роберт Де Ниро</Actor>
+            <Actor>Джоди Фостер</Actor>
+            <Actor>Харви Кейтель</Actor>
+        </Actors>
+    </Movie>
+    <Movie>
+        <Title>Бегущий по лезвию</Title>
+        <Director>Ридли Скотт</Director>
+        <Year>1982</Year>
+        <Genre>Фантастика, Нуар</Genre>
+        <Rating>8.1</Rating>
+        <Actors>
+            <Actor>Харрисон Форд</Actor>
+            <Actor>Рутгер Хауэр</Actor>
+            <Actor>Шон Янг</Actor>
+        </Actors>
+    </Movie>
+</library>
